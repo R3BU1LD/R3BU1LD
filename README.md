@@ -1,9 +1,6 @@
-# R3BU1LD // Windows Utilities, PlayStation 2 Tools & Custom Hardware HUDs
+<img width="2010" height="84" alt="Introducemyself" src="https://github.com/user-attachments/assets/99a08cb5-2aa3-4890-ac52-123411a8c27f" />
 
-![C#](https://shields.io)
-![Windows](https://shields.io)
-![PlayStation 2](https://shields.io)
-
+---
 Welcome to **R3BU1LD** — building modern, sci-fi themed desktop utilities, PlayStation 2 storage ecosystems, and custom hardware telemetry dashboards.
 
 ---
