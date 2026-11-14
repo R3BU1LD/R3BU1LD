@@ -5,7 +5,7 @@ Welcome to **R3BU1LD** — building modern, sci-fi themed desktop utilities, Pla
 
 ---
 
-## PlayStation 2 Storage & Network Suite
+<img width="1049" height="77" alt="PlayStation 2 Storage and Network Suite" src="https://github.com/user-attachments/assets/98d5a7d9-a9e9-4b41-bc71-0d3a5139c524" />
 
 A complete three-part desktop toolkit engineered to initialize, manage, and load PlayStation 2 internal hard drives (up to **2 TB**) safely and effortlessly:
 
@@ -17,14 +17,14 @@ A complete three-part desktop toolkit engineered to initialize, manage, and load
 
 ---
 
-## Windows Optimization & System Utilities
+<img width="1084" height="77" alt="Windows Optimization and System Utilities" src="https://github.com/user-attachments/assets/ba0cf7ff-4c2f-4133-a228-5c86a2c297ca" />
 
 * **[Storage Booster 2026](https://github.com):** Modern sci-fi system cleanup, SSD TRIM optimizer, and storage health utility for Windows 10/11.
 * **[Easy Windows Fix](https://github.com):** Quick diagnostic and repair dashboard for common Windows system and network issues.
 
 ---
 
-## Hardware & Custom Telemetry
+<img width="829" height="77" alt="Hardware and Custom Telemetry" src="https://github.com/user-attachments/assets/2c2d3f36-9710-4b70-9820-4fc858b6e2a2" />
 
 * **Custom Sensor Panels:** Real-time PC hardware monitoring HUDs and custom case-mod displays.
 * **Console Hardware Mods:** PlayStation 2 Network Adapter SATA conversions and 2 TB storage builds.
