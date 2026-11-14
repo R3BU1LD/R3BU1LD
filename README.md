@@ -1,3 +1,4 @@
+<img width="1408" height="768" alt="image_5cfe968" src="https://github.com/user-attachments/assets/9ff071ee-6597-4e2e-b121-0b6f9a57eaf4" />
 <img width="2010" height="84" alt="Introducemyself" src="https://github.com/user-attachments/assets/99a08cb5-2aa3-4890-ac52-123411a8c27f" />
 
 ---
